@@ -1,4 +1,6 @@
-# Introduction to SWift
+<img src="https://raw.githubusercontent.com/bearc0025/onlineCourses/main/IntroToSwift/icon.png" alt="Introduction to Swift" style="width:500px;"/>
+
+# Introduction to Swift
 
 These files go with the [online courses here](https://amzn.to/3p0yrZk): search for 'iOS Swift'
 
