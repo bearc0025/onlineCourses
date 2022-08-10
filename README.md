@@ -15,6 +15,12 @@
 
 <hr/>
 
+<img src="https://raw.githubusercontent.com/bearc0025/onlineCourses/main/icon.png" alt="iOS UI with Auto Layout" style="width:500px;"/>
+
+## [Course related files](https://github.com/bearc0025/onlineCourses/tree/main/UIAutoLayout)
+
+<hr/>
+
 <!-- 
 
 <img src="https://raw.githubusercontent.com/bearc0025/onlineCourses/main/IntroToSwift/icon.png" alt="iOS Swift" style="width:500px;"/>
