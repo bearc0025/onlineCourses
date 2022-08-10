@@ -14,7 +14,7 @@ This project covers lessons in the course. It was developed along side the cours
 
 <hr/>
 
-## TipCalculator.zip ([download](https://github.com/bearc0025/onlineCourses/blob/main/IntroiOSUI/TipCalculator.zip))
+## Project: TipCalculator.zip ([download](https://github.com/bearc0025/onlineCourses/blob/main/IntroiOSUI/TipCalculator.zip))
 
 This project is one possible solution for the project at the end of the course. 
 
