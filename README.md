@@ -15,9 +15,15 @@
 
 <hr/>
 
-<img src="https://raw.githubusercontent.com/bearc0025/onlineCourses/main/icon.png" alt="iOS UI with Auto Layout" style="width:500px;"/>
+<img src="https://raw.githubusercontent.com/bearc0025/onlineCourses/main/UIAutoLayout/icon.png" alt="iOS UI Auto Layout" style="width:500px;"/>
 
 ## [Course related files](https://github.com/bearc0025/onlineCourses/tree/main/UIAutoLayout)
+
+<hr/>
+
+<img src="https://raw.githubusercontent.com/bearc0025/onlineCourses/main/iOSUINav/icon.png" alt="iOS UI Navigation" style="width:500px;"/>
+
+## [Course related files](https://github.com/bearc0025/onlineCourses/tree/main/iOSUINav)
 
 <hr/>
 
