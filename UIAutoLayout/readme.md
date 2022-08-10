@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/bearc0025/onlineCourses/main/icon.png?raw=true" alt="iOS UI Auto Layout" style="width:500px;"/>
+<img src="https://raw.githubusercontent.com/bearc0025/onlineCourses/main/UIAutoLayout/icon.png" alt="iOS UI Auto Layout" style="width:500px;"/>
 
 # iOS UI Design with Auto Layout
 
