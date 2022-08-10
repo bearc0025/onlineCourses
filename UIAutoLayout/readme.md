@@ -14,7 +14,7 @@ This project covers lessons in the course. It was developed along side the cours
 
 <hr/>
 
-## UILayoutProject.zip ([download](https://github.com/bearc0025/onlineCourses/blob/main/UIAutoLayout/UILayoutProject.zip))
+## Project: UILayoutProject.zip ([download](https://github.com/bearc0025/onlineCourses/blob/main/UIAutoLayout/UILayoutProject.zip))
 
 Solution - ([download](https://github.com/bearc0025/onlineCourses/blob/main/UIAutoLayout/UILayoutProject_end.zip))
 
