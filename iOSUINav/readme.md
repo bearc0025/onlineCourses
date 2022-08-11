@@ -6,13 +6,13 @@ These files go with the [online courses here](https://amzn.to/3p0yrZk): search f
 
 <hr/>
 
-## [Nav.zip](https://github.com/bearc0025/onlineCourses/blob/main/iOSUINav/Nav.zip)
+## [Nav.zip](https://github.com/bearc0025/onlineCourses/raw/main/iOSUINav/Nav.zip)
 
 The Nav.zip file contains the project developed during the creation of the course.
 
 <hr/>
 
-## Project: Nav2Details.zip ([download start project](https://github.com/bearc0025/onlineCourses/blob/main/iOSUINav/Nav2Details.zip))
+## Project: Nav2Details.zip ([download start project](https://github.com/bearc0025/onlineCourses/raw/main/iOSUINav/Nav2Details.zip))
 
 ### Solution ([download solution](https://github.com/bearc0025/onlineCourses/blob/main/iOSUINav/Nav2Details_end.zip))
 
