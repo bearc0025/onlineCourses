@@ -6,7 +6,7 @@ These files go with the [online courses here](https://amzn.to/3p0yrZk): search f
 
 <hr/>
 
-## MyApp.zip ([download](https://github.com/bearc0025/onlineCourses/blob/main/iOSUnitTest/MyApp.zip))
+## [MyApp.zip](https://github.com/bearc0025/onlineCourses/raw/main/iOSUnitTest/MyApp.zip)
 
 The Nav.zip file contains the project developed during the creation of the course.
 
