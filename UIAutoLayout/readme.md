@@ -6,7 +6,7 @@ These files go with the [online courses here](https://amzn.to/3p0yrZk): search f
 
 <hr/>
 
-## Visual.zip ([download](https://github.com/bearc0025/onlineCourses/blob/main/UIAutoLayout/Visual.zip))
+## [Visual.zip](https://github.com/bearc0025/onlineCourses/raw/main/UIAutoLayout/Visual.zip)
 
 This project covers lessons in the course. It was developed along side the course content.
 
@@ -14,9 +14,9 @@ This project covers lessons in the course. It was developed along side the cours
 
 <hr/>
 
-## Project: UILayoutProject.zip ([download](https://github.com/bearc0025/onlineCourses/blob/main/UIAutoLayout/UILayoutProject.zip))
+## Project: UILayoutProject.zip ([download start project](https://github.com/bearc0025/onlineCourses/blob/main/UIAutoLayout/UILayoutProject.zip))
 
-Solution - ([download](https://github.com/bearc0025/onlineCourses/blob/main/UIAutoLayout/UILayoutProject_end.zip))
+Solution - ([download solution](https://github.com/bearc0025/onlineCourses/blob/main/UIAutoLayout/UILayoutProject_end.zip))
 
 This project is one possible solution for the project at the end of the course. 
 
