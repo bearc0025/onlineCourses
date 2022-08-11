@@ -27,6 +27,31 @@
 
 <hr/>
 
+<img src="https://raw.githubusercontent.com/bearc0025/onlineCourses/main/iOSUnitTest/icon.png" alt="Unit Testing Xcode" style="width:500px;"/>
+
+## [Course related files](https://github.com/bearc0025/onlineCourses/tree/main/iOSUnitTest)
+
+<hr/>
+
+<img src="https://raw.githubusercontent.com/bearc0025/onlineCourses/main/iOSDesignPatterns/icon.png" alt="iOS Design Patterns" style="width:500px;"/>
+
+## [Course related files](https://github.com/bearc0025/onlineCourses/tree/main/iOSDesignPatterns)
+
+<hr/>
+
+<img src="https://raw.githubusercontent.com/bearc0025/onlineCourses/main/JSONSwift/icon.png" alt="iOS JSON Swift" style="width:500px;"/>
+
+## [Course related files](https://github.com/bearc0025/onlineCourses/tree/main/JSONSwift)
+
+<hr/>
+
+<img src="https://raw.githubusercontent.com/bearc0025/onlineCourses/main/SwiftHOF/icon.png" alt="Swift Higher-Order Functions" style="width:500px;"/>
+
+## [Course related files](https://github.com/bearc0025/onlineCourses/tree/main/SwiftHOF)
+
+<hr/>
+
+
 <!-- 
 
 <img src="https://raw.githubusercontent.com/bearc0025/onlineCourses/main/IntroToSwift/icon.png" alt="iOS Swift" style="width:500px;"/>
