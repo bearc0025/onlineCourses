@@ -14,7 +14,7 @@ The Nav.zip file contains the project developed during the creation of the cours
 
 ## Project: Nav2Details.zip ([download start project](https://github.com/bearc0025/onlineCourses/raw/main/iOSUINav/Nav2Details.zip))
 
-### Solution ([download solution](https://github.com/bearc0025/onlineCourses/blob/main/iOSUINav/Nav2Details_end.zip))
+### Solution ([download solution](https://github.com/bearc0025/onlineCourses/raw/main/iOSUINav/Nav2Details_end.zip))
 
 This project covers lessons in the course. It was developed along side the course content.
 
