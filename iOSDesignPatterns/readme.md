@@ -6,7 +6,7 @@ These files go with the [online courses here](https://amzn.to/3p0yrZk): search f
 
 <hr/>
 
-## 1 Patterns.zip ([download](https://github.com/bearc0025/onlineCourses/blob/main/iOSDesignPatterns/1%20Patterns.zip))
+## [1 Patterns.zip](https://github.com/bearc0025/onlineCourses/raw/main/iOSDesignPatterns/1%20Patterns.zip)
 
 The zip file contains the project developed during the creation of the course.
 
@@ -15,7 +15,7 @@ The zip file contains the project developed during the creation of the course.
 
 <hr/>
 
-## 2 TableViewProtocols.zip ([download](https://github.com/bearc0025/onlineCourses/blob/main/iOSDesignPatterns/2%20TableViewProtocols.zip))
+## [2 TableViewProtocols.zip](https://github.com/bearc0025/onlineCourses/raw/main/iOSDesignPatterns/2%20TableViewProtocols.zip)
 
 The zip file contains the project developed during the creation of the course.
 
@@ -24,7 +24,7 @@ The zip file contains the project developed during the creation of the course.
 
 <hr/>
 
-## 3 Ext.zip ([download](https://github.com/bearc0025/onlineCourses/blob/main/iOSDesignPatterns/3%20Ext.zip))
+## [3 Ext.zip](https://github.com/bearc0025/onlineCourses/raw/main/iOSDesignPatterns/3%20Ext.zip)
 
 The zip file contains the project developed during the creation of the course.
 
