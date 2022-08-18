@@ -10,7 +10,7 @@ These files go with the [online courses here](https://amzn.to/3p0yrZk): search f
 
 The zip file contains the project developed during the creation of the course.
 
-<img src="https://s3.amazonaws.com/CAPS-SSE/soju/97aa/91573668-b4ef-4439-943d-480dc5b16c4c/SOJU_IMAGE?versionId=6d.BF2vtaFb_0NC_OfkDVBDdeuAPimZm&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220811T120244Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7200&X-Amz-Credential=AKIAWBV6LQ4QPLOTC37V%2F20220811%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=123be42132f9f128b0a106c9139476d0c0df1f4b61a0cd27bc99e40dcae507b7" 
+<img src="https://s3.amazonaws.com/CAPS-SSE/soju/97aa/91573668-b4ef-4439-943d-480dc5b16c4c/SOJU_IMAGE?versionId=6d.BF2vtaFb_0NC_OfkDVBDdeuAPimZm&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220818T114015Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7200&X-Amz-Credential=AKIAWBV6LQ4QPDRLSX4J%2F20220818%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b58fd305f53779bbcdb5382a610bfe6f1af52557700ee1a000829cba14f1869b" 
      alt="UserDefaults" style="width:400px;"/>
 
 <hr/>
@@ -19,7 +19,7 @@ The zip file contains the project developed during the creation of the course.
 
 The zip file contains the project developed during the creation of the course.
 
-<img src="https://s3.amazonaws.com/CAPS-SSE/soju/46b0/cc3fbfdd-e76d-4ac8-96dd-c6efadbc6f00/SOJU_IMAGE?versionId=50iRdrUjjyB8YMsEGwvn1jVShPbe21S6&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220811T120345Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7200&X-Amz-Credential=AKIAWBV6LQ4QPLOTC37V%2F20220811%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=2122f4a6c5fbd1955a5f1f98a8fb3e587f2a3607e97254c0bfa1bba9ee4a3706" 
+<img src="https://s3.amazonaws.com/CAPS-SSE/soju/9c6f/e433916f-ea55-467a-8b56-ca4e5ac63f12/SOJU_IMAGE?versionId=Q8qHVZ5nASvzPcRKA.gx0nqsGlic46BK&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220818T113904Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7200&X-Amz-Credential=AKIAWBV6LQ4QPDRLSX4J%2F20220818%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=6966913644292e0630ebb9dd660619f29a10d4407f780aabdb839ca6201e99b6" 
      alt="Files and Bundles" style="width:400px;"/>
 
 <hr/>
@@ -28,7 +28,7 @@ The zip file contains the project developed during the creation of the course.
 
 The zip file contains the project developed during the creation of the course.
 
-<img src="https://s3.amazonaws.com/CAPS-SSE/soju/a4cd/bbf170f7-e58e-41aa-af86-087f98993b21/SOJU_IMAGE?versionId=Jp0loxOr.RsjTnk7zWUErtrXjdUiPn9F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220811T120535Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7200&X-Amz-Credential=AKIAWBV6LQ4QPLOTC37V%2F20220811%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3186c03bd8bfe472517f3121ed1d5bccdfc88a75b8e4261e04af96bbacc48a04" 
+<img src="https://s3.amazonaws.com/CAPS-SSE/soju/a4cd/bbf170f7-e58e-41aa-af86-087f98993b21/SOJU_IMAGE?versionId=Jp0loxOr.RsjTnk7zWUErtrXjdUiPn9F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220818T114044Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7200&X-Amz-Credential=AKIAWBV6LQ4QPDRLSX4J%2F20220818%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=ca70a6a0f2a3025befc5ac5c90a9672975498d39c274291597be34d57cddeb1f" 
      alt="JSON Codable" style="width:400px;"/>
 
 Enjoy!
