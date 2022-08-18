@@ -8,10 +8,10 @@ These files go with the [online courses here](https://amzn.to/3p0yrZk): search f
 
 ## [Loc.zip](https://github.com/bearc0025/onlineCourses/raw/main/LocationMaps/Loc.zip)
 
-This project covers lessons in the course. It was developed along side the course content.
+This project covers the section titled CoreLocation. It was developed along side the course content.
 
-<img src="" 
-     alt="Location and Maps" style="width:200px;"/>
+<!-- img src="" 
+     alt="Location and Maps" style="width:200px;"/-->
 
 <hr/>
 
@@ -20,10 +20,6 @@ This project covers lessons in the course. It was developed along side the cours
 ### Project Solution: [WalkTracker_end.zip](https://github.com/bearc0025/onlineCourses/raw/main/LocationMaps/WalkTracker_end.zip)
 
 This project is one possible solution for the project at the end of the course. 
-
-<img src="" 
-     alt="Location and Maps project" style="width:200px;"/>
-
 
 Enjoy!
 Bear
