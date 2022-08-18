@@ -10,8 +10,8 @@ These files go with the [online courses here](https://amzn.to/3p0yrZk): search f
 
 The zip file contains the project developed during the creation of the course.
 
-<img src="https://s3.amazonaws.com/CAPS-SSE/soju/60b6/a8e35984-caa7-407a-8bd0-e9fe6dccb726/SOJU_IMAGE?versionId=Ca10qqcYbVHRfvOx9JThGnsdQhnBzvnB&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220811T112610Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7200&X-Amz-Credential=AKIAWBV6LQ4QPLOTC37V%2F20220811%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=46594611659cd6ca57960dfa7b3a7035b51967ae1f2a40ef0d96c3ba22a8577b" 
-     alt="iOS Design Patterns" style="width:400px;"/>
+<!-- img src="https://s3.amazonaws.com/CAPS-SSE/soju/60b6/a8e35984-caa7-407a-8bd0-e9fe6dccb726/SOJU_IMAGE?versionId=Ca10qqcYbVHRfvOx9JThGnsdQhnBzvnB&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220811T112610Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7200&X-Amz-Credential=AKIAWBV6LQ4QPLOTC37V%2F20220811%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=46594611659cd6ca57960dfa7b3a7035b51967ae1f2a40ef0d96c3ba22a8577b" 
+     alt="iOS Design Patterns" style="width:400px;"/ -->
 
 <hr/>
 
