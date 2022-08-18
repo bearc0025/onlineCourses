@@ -33,9 +33,9 @@ This project relates to the Hands On section for the Reverse Geocoding portion o
 
 <hr/>
 
-## Project: [WalkTracker.zip](https://github.com/bearc0025/onlineCourses/raw/main/LocationMaps/WalkTracker.zip)
+## Project: [MapSearch.zip](https://github.com/bearc0025/onlineCourses/raw/main/LocationMaps/MapSearch.zip)
 
-### Project Solution: [WalkTracker_end.zip](https://github.com/bearc0025/onlineCourses/raw/main/LocationMaps/WalkTracker_end.zip)
+### Project Solution: [MapSearch_end.zip](https://github.com/bearc0025/onlineCourses/raw/main/LocationMaps/MapSearch_end.zip)
 
 This project is one possible solution for the project at the end of the course. 
 
