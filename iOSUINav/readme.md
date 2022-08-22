@@ -2,7 +2,7 @@
 
 # iOS UI Navigation
 
-These files go with the [online courses here](https://amzn.to/3p0yrZk): search for 'iOS'
+These files go with this [online course](https://amzn.to/3QGQ4tt)
 
 <hr/>
 
