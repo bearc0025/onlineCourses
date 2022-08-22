@@ -2,7 +2,7 @@
 
 # Introduction to Swift
 
-These files go with the [online courses here](https://amzn.to/3p0yrZk): search for 'iOS Swift'
+These files go with this [online course](https://amzn.to/3QG4PN2)
 
 ## [1 IntoToSwift.zip](https://github.com/bearc0025/onlineCourses/raw/main/IntroToSwift/1%20IntroToSwift.zip)
 
