@@ -20,7 +20,7 @@ This project covers conten from the course. It was developed along side the cour
 
 ## Project: [MovieSearch.zip](https://github.com/bearc0025/onlineCourses/raw/main/ServerComm/MovieSearch.zip)
 
-### Project Solution: [_end.zip](https://github.com/bearc0025/onlineCourses/raw/main/ServerComm/MovieSearch_end.zip)
+### Project Solution: [MovieSearch_end.zip](https://github.com/bearc0025/onlineCourses/raw/main/ServerComm/MovieSearch_end.zip)
 
 This project is one possible solution for the project at the end of the course. 
 
