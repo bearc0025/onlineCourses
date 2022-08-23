@@ -6,7 +6,7 @@ These files go with this [online course](https://amzn.to/3AlLBFM)
 
 <hr/>
 
-## [.zip](https://github.com/bearc0025/onlineCourses/raw/main/ServerComm/.zip)
+## [ServerComm.zip](https://github.com/bearc0025/onlineCourses/raw/main/ServerComm/ServerComm.zip)
 
 This project covers conten from the course. It was developed along side the course content.
 
