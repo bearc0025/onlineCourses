@@ -1,0 +1,10 @@
+{
+  "aps" : {
+    "alert" : {
+      "title" : "Title",
+      "body" : "Body of the Notification",
+      "sound" : "default"
+    },
+    "category":"ActionCat"
+  }
+}
