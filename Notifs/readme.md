@@ -12,9 +12,7 @@ This project covers conten from the course. It was developed along side the cour
 
 <hr/>
 
-## Project: [.zip](https://github.com/bearc0025/onlineCourses/raw/main/Notifs/.zip)
-
-### Project Solution: [_end.zip](https://github.com/bearc0025/onlineCourses/raw/main/Notifs/_end.zip)
+## Project: [NotifTimer.zip](https://github.com/bearc0025/onlineCourses/raw/main/Notifs/NotifTimer.zip)
 
 This project is one possible solution for the project at the end of the course. 
 
