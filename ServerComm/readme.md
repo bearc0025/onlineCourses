@@ -2,7 +2,7 @@
 
 # iOS App Server Side Communication
 
-These files go with this [online course](https://amzn.to/3AlLBFM)
+These files go with this [online course](https://amzn.to/3AXx3xg)
 
 <hr/>
 
