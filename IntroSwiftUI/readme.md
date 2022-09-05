@@ -12,6 +12,14 @@ This project covers lessons in the course. It was developed along side the cours
 
 <hr/>
 
+## [ListItems.zip](https://github.com/bearc0025/onlineCourses/raw/main/IntroSwiftUI/ListItems.zip)
+
+<hr/>
+
+## [NameList.zip](https://github.com/bearc0025/onlineCourses/raw/main/IntroSwiftUI/NameList.zip)
+
+<hr/>
+
 ## Project: [TipCalculator.zip](https://github.com/bearc0025/onlineCourses/raw/main/IntroiOSUI/TipCalculator.zip)
 
 This project is one possible solution for the project at the end of the course. 
