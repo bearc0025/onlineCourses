@@ -14,7 +14,7 @@ This project covers lessons in the course. It was developed along side the cours
 
 This project covers lessons in the course. It was developed along side the course content.
 
-## Project: [.zip](https://github.com/bearc0025/onlineCourses/raw/main/AWSAmplify/.zip)
+## Project: [ShoppingList_Final.zip](https://github.com/bearc0025/onlineCourses/raw/main/AWSAmplify/ShoppingList_Final.zip)
 
 This project is one possible solution for the project at the end of the course. 
 
