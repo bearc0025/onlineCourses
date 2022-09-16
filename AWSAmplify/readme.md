@@ -2,7 +2,7 @@
 
 # AWS Server Backend for Mobile Apps using Amplify 
 
-These files go with this [online course]()
+These files go with this [online course](https://amzn.to/3DrtIIF)
 
 <hr/>
 
